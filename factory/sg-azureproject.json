@@ -1,0 +1,9 @@
+{
+	"name": "sg-azureproject",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "02c34012-f652-4799-9d08-3418c3a8e07a",
+		"tenantId": "920bb0cd-1538-4c27-9762-ce361c01e8be"
+	}
+}
